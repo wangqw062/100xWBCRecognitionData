@@ -1,0 +1,19 @@
+Abbreviations of leukocyte classes used in folder structure and annotation file
+-------------------------------------------------------------------------------
+1  Blast      blast
+2  PRO       promyelocyte
+3  MYE       myelocyte
+4  MET       Smudge cell
+5  bNEU      band neutrophil
+6  sNEU      segmented neutrophil
+7  LYM       lymphocyte
+8  MO        Monocyte
+9  EO        eosinophil
+10 BA        basophil
+11 rLYM      reactive lymphocyte
+12 NRBC      nucleated red blood cell
+13 gPLT      giant platelet
+14 SM        smudge
+15 Artefact  artefact
+
+12~15,Non-WBC type, not covered in this paper.
